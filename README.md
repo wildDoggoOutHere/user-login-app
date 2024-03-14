@@ -45,6 +45,8 @@ Ideally, the response should return a JWT token. Once you have the token, you ca
 
 I understand that this does not make me pass the assessment since there is not concrete application, but I hope I have demostrated the java backend knowledge.
 
+
+The second assessment - encoder decoder is included both in rar file and inside the folder EncoderDecoder. 
 ## References
 
  - I referred a lot to online tutorials, especially from Amigoscode.
